@@ -81,3 +81,185 @@ input[type=text]:not(.browser-default):focus:not([readonly]).search {
   height: 100%;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
+
+/* freelancer-list.html */
+
+
+.container {
+    width: 973px;
+    margin: 85 auto;
+}
+.profile-card {
+    height: 201px;
+}
+
+.fnd {
+    font-family: Roboto;
+    font-weight: 400;
+    margin-top: 48px;
+    font-size:18px;
+    color: #525252;
+    letter-spacing: 0.9px;
+
+}
+
+.profile-img {
+    width: 115px;
+    height: 115px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.ivan {
+    font-style: Medium;
+    font-weight: 500;
+    font-family: Roboto;
+    color: #444343;
+    font-size: 18px;
+    margin-bottom: 80px;
+
+}
+
+.role {
+    font-weight: 400;
+    font-family: Roboto;
+    color: #444343;
+    font-size: 12px;
+}
+
+.description {
+    margin-top: 85px;
+    font-weight: 400;
+    font-family: Roboto;
+    color: #252525;
+    font-size: 12px;
+    height: 26px;
+    display: inline-block;
+}
+
+.hire-me{
+    background-color: #42b0f0;
+    width: 115px;
+    height: 24px;
+    text-transform: none;
+    corner-radius: 3px;
+    margin: auto;
+    font-size: 12px;
+}
+
+.skill-1 {
+    width: 35px;
+    height: 24px;
+    background-color: #f6f6f5;
+    font-size: 10px;
+    color: 	#000000;
+    margin-top: 11px;
+    margin-right: 13px;
+
+
+}
+
+.skill-2 {
+    width: 69px;
+    height: 24px;
+    background-color: #f6f6f5;
+    font-size: 10px;
+    color: 	#000000;
+    margin-top: 35px;
+    margin-right: 13px;
+}
+.skill-3 {
+    width: 57px;
+    height: 24px;
+    background-color: #f6f6f5;
+    font-size: 10px;
+    color: 	#000000;
+    margin-top: 35px;
+    margin-right: 13px;
+}
+.inf {
+    text-transform: none;
+    background-color: #FAFAFA;
+    height: 36px;
+}
+.info {
+    margin-right: 20px;
+}
+.freelancer-card {
+    margin-top: 30px;
+}
+.search {
+    margin-bottom: 33px;
+}
+.skills-icon {
+    margin-top: 33px;
+    margin-bottom: 34px;
+}
+.skills-1 {
+    width: 35px;
+    height: 24px;
+    corner-radius:3px;
+    background-color: #f6f6f5;
+    font-size: 10px;
+    color: 	#000000;
+    margin-top: 11px;
+    margin-right: 13px;
+    margin-left: 43px;
+    /* position: absolute; */
+}
+.add {
+    background-color: #42b0f0;
+    width: 115px;
+    height: 24px;
+    text-transform: none;
+    corner-radius: 3px;
+    margin-left: 31px;
+    font-size: 12px;
+    padding-bottom: 12px;
+}
+.find-freelancer {
+    background-color: #42b0f0;
+    width: 115px;
+    height: 24px;
+    text-transform: none;
+    corner-radius: 3px;
+    font-size: 12px;
+    padding-bottom: 12px;
+}
+.search-input {
+    width: 115px;
+    height: 24px;
+    border: 1px solid #000;
+    padding: 20px;
+    font-size: 20px;
+    border-style:solid;
+    border-width:medium;
+}
+ .filter-select{
+    width: 173px;
+    height: 24px;
+}
+
+.filter-col{
+    width: 173px;
+    height: 24px;
+}
+
+.row .col.s1 {
+    width: 8.6666666667%;
+    margin-right: 30px;
+    margin-left: 10px;
+    left: 0;
+    right: 0;
+    padding: 0;
+}
+
+.row .col.s2 {
+    width: 8.6666666667%;
+    margin-right: 89px;
+    margin-left: 0px;
+    left: 0;
+    right: 0;
+    padding: 0;
+}
