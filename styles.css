@@ -263,3 +263,84 @@ input[type=text]:not(.browser-default):focus:not([readonly]).search {
     right: 0;
     padding: 0;
 }
+
+/*email-norifications*/
+
+.main-text {
+    font-size: 13px;
+    font-weight: 500;
+    font-family: Roboto;
+    margin-top: 38px;
+    margin-left: 31px;
+}
+
+.text-2 {
+    font-size: 9px;
+    font-weight: 500;
+    font-family: Roboto;
+    margin-left: 31px;
+}
+
+.notifications-section {
+    color: #42b0f0;
+    font-size: 12px;
+    font-weight: 500;
+    font-family: Roboto;
+    margin-top: 38px;
+    margin-left: 31px;
+}
+
+.menu{
+    height: 752px;
+    width: 242px;
+}
+
+.main{
+    height: 764px;
+    float: left;
+    width: 1439px;
+}
+
+.description {
+    height: 764px;
+    width: 1141px;
+    float: right;
+}
+
+.itezo-notification {
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Roboto;
+    margin-left: 53px;
+}
+.customer-activity{
+    margin-left: 43px;
+    width: 1141px;
+    height: 230px;
+
+}
+
+.activity-content{
+    height: 42px;
+    background-color: #DCDCDC;
+}
+
+.activity-title {
+    font-size: 13px;
+    font-weight: 500;
+    font-family: Roboto;
+    margin-bottom: 25px;
+}
+
+.culumn-text{
+    font-size: 11px;
+    font-weight: 400;
+    font-family: Roboto;
+}
+
+.offer {
+    font-size: 11px;
+    font-weight: 400;
+    font-family: Roboto;
+    margin-bottom: 15px;
+}
